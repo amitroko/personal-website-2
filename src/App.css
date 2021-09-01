@@ -29,6 +29,15 @@ h1 {
   color: whitesmoke;
 }
 
+.text-link {
+  text-decoration: none;
+  color: #E0E0E0;
+}
+
+.text-link:hover {
+  text-decoration: underline;
+}
+
 .links {
   width: 800px;
   max-width: 96vw;
