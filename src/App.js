@@ -3,6 +3,7 @@ import Headshot from './casualHeadshot.6a8acbe7.jpg';
 import Github from './icons/Github.js';
 import Linkedin from './icons/Linkedin.js';
 import Mail from './icons/Mail.js';
+import Resume from './AlecMitrokostasResume.pdf';
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
       <div className="content">
         <img src={Headshot} alt="Photo of Alec Mitrokostas"/>
         <h1>Alec Mitrokostas</h1>
+        <a href={Resume} style={{color: "whitesmoke"}} download>Download my resume</a>
         <p style={{color: "whitesmoke"}}>Currently:<br/>
         4th-Year <a className="text-link" href="https://csb.lehigh.edu/" target="_blank" rel="noopener noreferrer">Computer Science and Business</a> Student @ Lehigh University | Bethlehem, PA<br/>
         <a className="text-link" href="https://wordpress.lehigh.edu/sss/" target="_blank" rel="noopener noreferrer">Scalable Systems &amp; Software Research Group</a> @ Lehigh University | Bethlehem, PA</p>
