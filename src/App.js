@@ -14,7 +14,7 @@ function App() {
         <a href={Resume} style={{color: "whitesmoke"}} download>Download my resume</a>
         <p style={{color: "whitesmoke"}}>Currently:<br/>
         4th-Year <a className="text-link" href="https://csb.lehigh.edu/" target="_blank" rel="noopener noreferrer">Computer Science and Business</a> Student @ Lehigh University | Bethlehem, PA<br/>
-        <a className="text-link" href="https://wordpress.lehigh.edu/sss/" target="_blank" rel="noopener noreferrer">Scalable Systems &amp; Software Research Group</a> @ Lehigh University | Bethlehem, PA</p>
+        <a className="text-link" href="https://wordpress.lehigh.edu/sss/" target="_blank" rel="noopener noreferrer">Scalable Systems &amp; Software Research Group&nbsp;</a><a className="text-link" href="https://blockchain.cse.lehigh.edu">(Blockchain subgroup)</a> @ Lehigh University | Bethlehem, PA</p>
         <p style={{color: "whitesmoke"}}>Previously:<br/>
         SWE Intern @ <a className="text-link" href="https://mcaconnect.com/" target="_blank" rel="noopener noreferrer">MCA Connect</a> | Denver, CO<br/>
         Secretary and Professional Development Chairman, Comp. Sci. and Business Assn. @ Lehigh University | Bethlehem, PA</p>
