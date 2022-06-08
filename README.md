@@ -2,4 +2,4 @@
 
 [alecmitrokostas.com](https://www.alecmitrokostas.com)
 
-Simpler and cleaner.
+My personal landing page
